@@ -17,7 +17,7 @@ mit dieser Programmiersprache am liebsten.
 
 
 
-![Alt text](https://www.google.com/imgres?q=Programm%20languages&imgurl=https%3A%2F%2Fbairesdev.mo.cloudinary.net%2Fblog%2F2022%2F01%2Fprogramming-languages-1.jpg%3Ftx%3Dw_1920%2Cq_auto&imgrefurl=https%3A%2F%2Fwww.bairesdev.com%2Fblog%2Fprogramming-languages-business-should-use%2F&docid=fP5niDA-XsJ0iM&tbnid=8hqudn1_AFwgTM&vet=12ahUKEwiysMzAqMaJAxVr_rsIHWiLNEsQM3oECB4QAA..i&w=1920&h=1280&hcb=2&ved=2ahUKEwiysMzAqMaJAxVr_rsIHWiLNEsQM3oECB4QAA)
+![Alt text](https://bairesdev.mo.cloudinary.net/blog/2022/01/programming-languages-1.jpg?tx=w_1920,q_auto)
 
 * Programmiersprachen-Liste:
     1. Java
