@@ -1,6 +1,5 @@
 # GitHub FAQ
 
-====================================================
 
 
 ### Was ist der Unterschied zwischen Git und GitHub?
